@@ -275,7 +275,6 @@ function Simple () {
         <br></br>
         <br></br>
         <br></br>
-        <img src={covid} style={{maxWidth:'800px'}}/>
         <br></br>
         <br></br>
         <br></br>
